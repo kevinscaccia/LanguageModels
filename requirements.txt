@@ -1,0 +1,14 @@
+pyarrow
+tqdm
+pandas
+matplotlib
+scikit-learn
+#
+pytorch
+transformers
+# datasets 
+# evaluate 
+# accelerate 
+# gluonts 
+# ujson
+# matplotlib
